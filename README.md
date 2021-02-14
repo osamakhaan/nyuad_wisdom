@@ -41,3 +41,8 @@ Open the jupyter notebook link in any browser. Follow the steps below if you don
 7. `firefox`
 
 For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/ADRC/Jupyter+Notebook+In+Dalma).
+
+## Frequently Used Conda Commands
+* Update python version: `conda install python=3.7.0`
+
+## Frequently Used GitHub Commands
