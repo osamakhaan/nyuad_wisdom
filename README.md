@@ -18,7 +18,7 @@
 1. Open a terminal
 2. `ssh NETID@dalma.abudhabi.nyu.edu`
 3. `viz-tvnc -X` or `viz-tvnc -X -g 1920x1080` (the -g flag is used to specify screen resolution)
-4. Open a new terminal
+4. Open a new terminal locally
 5. `ssh -L 5930:127.0.0.1:590<DisplayNumber> <NetID>@<Visualization host assigned to you>`
 For example, if my NetID is gh50, my visualization host is hpcviz2.abudhabi.nyu.edu and display number is 2,
 `ssh -L 5930:127.0.0.1:5902 gh50@hpcviz2.abudhabi.nyu.edu`
