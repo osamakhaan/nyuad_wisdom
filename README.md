@@ -44,5 +44,6 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 
 ## Frequently Used Conda Commands
 * Update python version: `conda install python=3.7.0`
+* Remove unused packages and caches: `conda clean --all`
 
 ## Frequently Used GitHub Commands
