@@ -43,7 +43,8 @@ Open the jupyter notebook link in any browser. Follow the steps below if you don
 For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/ADRC/Jupyter+Notebook+In+Dalma).
 
 ## Which resources/softwares should I use for medical imaging?
-[Awesome Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
+* [Awesome Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
+* [MedPy](http://loli.github.io/medpy/)
 
 ## Frequently Used Conda Commands
 * Update python version: `conda install python=3.7.0`
