@@ -55,19 +55,23 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 2. `nano py36.yml`
 3. Copy & paste the following:
 
-`name: py36
-channels:
-    - https://conda.anaconda.org/menpo
-    - conda-forge
-dependencies:
-    - python==3.6
-    - numpy
-    - matplotlib
-    - jupyter
-    - scikit-learn
-    - scipy
-    - seaborn
-    - pandas`
+`name: py36`
+
+`channels:`
+
+`    - https://conda.anaconda.org/menpo`
+
+`    - conda-forge`
+
+`dependencies:`
+`    - python==3.6`
+`    - numpy`
+`    - matplotlib`
+`    - jupyter`
+`    - scikit-learn`
+`    - scipy`
+`    - seaborn`
+`    - pandas`
 4. `conda env create -f py36.yml`
 
 ## Frequently Used GitHub Commands
