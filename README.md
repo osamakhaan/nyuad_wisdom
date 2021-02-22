@@ -46,6 +46,9 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 * [Awesome Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
 * [MedPy](http://loli.github.io/medpy/)
 
+## Having trouble converting Jupyter Notebook files to PDF?
+* [Stack Overflow](https://stackoverflow.com/questions/52300242/solving-500-internal-server-error-nbconvert-failed-xelatex-not-found-in-path)
+
 ## Frequently Used Conda Commands
 * Update python version: `conda install python=3.7.0`
 * Remove unused packages and caches: `conda clean --all`
