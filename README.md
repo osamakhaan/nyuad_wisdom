@@ -12,6 +12,7 @@
 * Check jobs status: `squeue -u NETID`
 * Cancel job: `scancel JOBID`
 * Check quota: `myquota`
+* Reserve an interactive GPU for command line usage: `srun -p nvidia -t4:00:00 --mem=32000 --gres=gpu:v100:1 --pty /bin/bash` 
 
 ## How do I use a visualization node on DALMA?
 
