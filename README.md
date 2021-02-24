@@ -53,6 +53,9 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 ## Frequently Used Conda Commands
 * Update python version: `conda install python=3.7.0`
 * Remove unused packages and caches: `conda clean --all`
+* List all pacakges in current directory: `conda activate <env_name>` & `conda list`
+* Check if a package is installed in an environment: `conda list -n <env_name> <package_name>`
+* Uninstall pip packages: `python -m pip uninstall <package_name>`
 
 ### Create a Conda Environment for ML
 1. Open terminal
