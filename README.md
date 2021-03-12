@@ -6,6 +6,9 @@
 ![image](https://user-images.githubusercontent.com/40494713/107872546-77f32180-6ec4-11eb-8dff-65bc83450d52.png)
 4. For downloading large google drive files within Python scripts, refer to the Readme at [gdown](https://github.com/wkentaro/gdown)
 
+## Ordering of layers in NNs
+1. -> CONV/FC -> ReLu(or other activation) -> Dropout -> BatchNorm -> CONV/FC | [Link](https://stackoverflow.com/questions/39691902/ordering-of-batch-normalization-and-dropout)
+
 ## Frequently Used DALMA Commands
 
 * Submit job: `sbatch FILENAME`
