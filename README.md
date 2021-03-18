@@ -17,6 +17,9 @@
 * Check quota: `myquota`
 * Reserve an interactive GPU for command line usage: `srun -p nvidia -t4:00:00 --mem=32000 --gres=gpu:v100:1 --pty /bin/bash` 
 
+## Useful Links
+* [NYU Greene Cluster Docs](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/greene)
+
 ## How do I use a visualization node on DALMA?
 
 1. Open a terminal
