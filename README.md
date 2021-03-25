@@ -49,6 +49,9 @@ Open the jupyter notebook link in any browser. Follow the steps below if you don
 
 For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/ADRC/Jupyter+Notebook+In+Dalma).
 
+## How do I use Jupyter Notebook on Greene?
+[Link](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/prince/interactive/jupyter)
+
 ## Which resources/softwares should I use for medical imaging?
 * [Awesome Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
 * [MedPy](http://loli.github.io/medpy/)
