@@ -17,6 +17,11 @@
 * Check quota: `myquota`
 * Reserve an interactive GPU for command line usage: `srun -p nvidia -t4:00:00 --mem=32000 --gres=gpu:v100:1 --pty /bin/bash` 
 
+
+## Synchronize local and remote repos
+* `rsync -a /opt/media/ remote_user@remote_host_or_ip:/opt/media/`
+* [Details](https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/)
+
 ## Useful Links
 * [NYU Greene Cluster Docs](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/greene)
 
