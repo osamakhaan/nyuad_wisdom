@@ -17,6 +17,10 @@
 * Check quota: `myquota`
 * Reserve an interactive GPU for command line usage: `srun -p nvidia -t4:00:00 --mem=32000 --gres=gpu:v100:1 --pty /bin/bash` 
 
+* Submit a job to a desired node:
+    * Find the nodes status: `sinfo -N -p nvidia`
+    * Submit the job to a desired node: `sbatch -w <nodename> <jobscript>` e.g. `sbatch -w compute-21-4 run.sh`
+
 
 ## Synchronize local and remote repos
 * `rsync -a /opt/media/ remote_user@remote_host_or_ip:/opt/media/`
