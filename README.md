@@ -26,6 +26,9 @@
 * `rsync -a /opt/media/ remote_user@remote_host_or_ip:/opt/media/`
 * [Details](https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/)
 
+## File Transfer between NYU NY HPC and Dalma
+* [Fast file transfer](https://crc-docs.abudhabi.nyu.edu/hpc/system/nyc_file_transfer.html)
+
 ## Useful Links
 * [NYU Greene Cluster Docs](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/greene)
 
