@@ -37,6 +37,7 @@ Host dalma-fast
    User         <your-NetID>
 ```
 * Transfer files as usual using scp e.g. `scp filename dalma-fast:~/`
+* Bad owner permissions error: [Link](https://serverfault.com/questions/253313/ssh-returns-bad-owner-or-permissions-on-ssh-config)
 
 * [Fast file transfer](https://crc-docs.abudhabi.nyu.edu/hpc/system/nyc_file_transfer.html)
 
