@@ -30,7 +30,8 @@
 * On NYU NY HPC (e.g. Greene):
    * `nano ~/.ssh/config`
    * Append the following:
-```Host dalma-fast
+```
+Host dalma-fast
    Hostname     dalma.abudhabi.nyu.edu
    Port         922
    User         <your-NetID>
