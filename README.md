@@ -93,6 +93,7 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 1. Open terminal
 2. `nano py36.yml`
 3. Copy & paste the following:
+
 ```
 name: py36
 channels:
