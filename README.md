@@ -27,6 +27,16 @@
 * [Details](https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/)
 
 ## File Transfer between NYU NY HPC and Dalma
+* On NYU NY HPC (e.g. Greene):
+   * `nano ~/.ssh/config`
+   * Append the following:
+```Host dalma-fast
+   Hostname     dalma.abudhabi.nyu.edu
+   Port         922
+   User         <your-NetID>
+```
+* Transfer files as usual using scp e.g. `scp filename dalma-fast:~/`
+
 * [Fast file transfer](https://crc-docs.abudhabi.nyu.edu/hpc/system/nyc_file_transfer.html)
 
 ## Useful Links
