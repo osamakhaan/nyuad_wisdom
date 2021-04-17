@@ -90,10 +90,9 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 * Uninstall pip packages: `python -m pip uninstall <package_name>`
 
 ### Create a Conda Environment for ML
-1. Open terminal
-2. `nano py36.yml`
-3. Copy & paste the following:
-
+* Open terminal
+* `nano py36.yml`
+* Copy & paste the following:
 
 ```
 name: py36
@@ -110,7 +109,7 @@ dependencies:
     - seaborn
     - pandas
 ```
-4. `conda env create -f py36.yml`
+* `conda env create -f py36.yml`
 
 ## MAC Issues
 * [Terminal takes a long time to load](https://apple.stackexchange.com/questions/41743/how-do-i-speed-up-new-terminal-tab-loading-time)
