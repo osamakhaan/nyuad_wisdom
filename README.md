@@ -79,8 +79,9 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 * [Awesome Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
 * [MedPy](http://loli.github.io/medpy/)
 
-## Having trouble converting Jupyter Notebook files to PDF?
-* [Stack Overflow](https://stackoverflow.com/questions/52300242/solving-500-internal-server-error-nbconvert-failed-xelatex-not-found-in-path)
+## Jupyter Notebook
+* [Having trouble converting Jupyter Notebook files to PDF](https://stackoverflow.com/questions/52300242/solving-500-internal-server-error-nbconvert-failed-xelatex-not-found-in-path)
+* [Add Anaconda Environment in Jupyter Notebook](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)
 
 ## Frequently Used Conda Commands
 * Update python version: `conda install python=3.7.0`
