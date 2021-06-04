@@ -75,6 +75,12 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 ## How do I use Jupyter Notebook on Greene?
 [Link](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/prince/interactive/jupyter)
 
+## How do I use Tensorboard on Remote Server?
+* `ssh -L 6006:localhost:6006 username@server_ip` (forwards everything on port 6006 of the server to port 6006 of local machine)
+* `cd parent_dir`
+* `tensorboard --logdir=.`
+* Navigate to `http://127.0.0.1:6006/` on local machine
+
 ## Which resources/softwares should I use for medical imaging?
 * [Awesome Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
 * [MedPy](http://loli.github.io/medpy/)
