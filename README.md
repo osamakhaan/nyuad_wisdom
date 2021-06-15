@@ -75,6 +75,11 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 ## How do I use Jupyter Notebook on Greene?
 [Link](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/prince/interactive/jupyter)
 
+## Add Conda Environment to Jupyter Notebook
+* `conda install -c anaconda ipykernel`
+* `python -m ipykernel install --user --name=<ENV_NAME>`
+
+
 ## How do I use Tensorboard on Remote Server?
 * `ssh -L 6006:localhost:6006 username@server_ip` (forwards everything on port 6006 of the server to port 6006 of local machine)
 * `cd parent_dir`
