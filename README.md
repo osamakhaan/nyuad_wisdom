@@ -127,3 +127,4 @@ dependencies:
 * [Terminal takes a long time to load](https://apple.stackexchange.com/questions/41743/how-do-i-speed-up-new-terminal-tab-loading-time)
 
 ## Frequently Used GitHub Commands
+* [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
