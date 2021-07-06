@@ -39,6 +39,7 @@ Host dalma-fast
 * Transfer files as usual using scp e.g. `scp filename dalma-fast:~/`
 * Bad owner permissions error: [Link](https://serverfault.com/questions/253313/ssh-returns-bad-owner-or-permissions-on-ssh-config)
 * [Fast file transfer](https://crc-docs.abudhabi.nyu.edu/hpc/system/nyc_file_transfer.html)
+* [NYU Greene file transfer docs](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/data-management/sync)
 
 ## Useful Links
 * [NYU Greene Cluster Docs](https://sites.google.com/a/nyu.edu/nyu-hpc/documentation/greene)
