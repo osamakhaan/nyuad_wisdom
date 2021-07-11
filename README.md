@@ -129,3 +129,4 @@ dependencies:
 
 ## Frequently Used GitHub Commands
 * [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Missing Semester of CS](https://missing.csail.mit.edu/2020/version-control/)
