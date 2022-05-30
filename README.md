@@ -83,6 +83,9 @@ For detailed instructions, refer to this [link](https://wikis.nyu.edu/display/AD
 * `conda install -c anaconda ipykernel`
 * `python -m ipykernel install --user --name=<ENV_NAME>`
 
+## Set Default Working Directory for Jupyter Notebook
+* `jupyter notebook --generate-config`
+* In `jupyter_notebook_config.py`, `c.NotebookApp.notebook_dir = r"/scratch/<NETID>"`
 
 ## How do I use Tensorboard on Remote Server?
 * `ssh -L 6006:localhost:6006 username@server_ip` (forwards everything on port 6006 of the server to port 6006 of local machine)
